@@ -44,6 +44,7 @@ main{
 }
 
 .foto{
+    margin-top: 20px;
     width: 45%;
     height: 500px;
 }
@@ -85,6 +86,7 @@ thead{
 
 
 #foto1{
+    margin-top: 10px;
     width: 300px;
     height: 200px;
     background-image: url(../img/graph.jpg);
