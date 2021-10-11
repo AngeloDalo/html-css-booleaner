@@ -68,3 +68,28 @@ thead{
 .colonna1, .colonna2{
     width: 15%;
 }
+
+#scritta-footer{
+    color: grey;
+    font-size: 25px;
+}
+
+
+#foto1{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 10px;
+}
+
+#foto2{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.scritta{
+    font-size: 30px;
+    margin-left: 10px;
+    color: white;
+}
