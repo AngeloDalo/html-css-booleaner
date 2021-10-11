@@ -1,8 +1,10 @@
+/*caratteri contenuti nel main hanno una grandezza di 20 px e un font specifico*/
 main{
     font-size: 20px;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+/*sfondo dell'header dove è contenuto il logo della testata*/
 #pattern{
     background-color: #1590f5;
     background-image: url(../img/pattern.png);
@@ -10,17 +12,20 @@ main{
     margin-bottom: 2%;
 }
 
+/*caratteristiche del logo*/
 #logo{
     margin-top: 3%;
     margin-bottom: 1%;
     width: 15%;
 }
 
+/*titolo dell'articolo in caratteri più grandi*/
 #title{
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
 }
 
+/*informazioni dell'articolo*/
 .info-articolo{
     color: grey;
 }
@@ -47,11 +52,14 @@ main{
 {
     font-size: 12px;
 }
+/*fine informazioni dell'ariticolo*/
 
+/*scritte di due paragrafi evidenziate di giallo*/
 .evidenziato{
     background-color: yellow;
 }
 
+/*css della tabella*/
 .tabella{
     text-align: left;
 }
@@ -68,6 +76,7 @@ thead{
 .colonna1, .colonna2{
     width: 15%;
 }
+/*fine css della tabella*/
 
 #scritta-footer{
     color: grey;
@@ -88,6 +97,7 @@ thead{
     background-image: url(../img/monitor.jpg);
 }
 
+/*scritte nei 2 sfondi*/
 .scritta{
     font-size: 30px;
     margin-left: 10px;
